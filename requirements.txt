@@ -2,5 +2,5 @@ streamlit
 pandas
 numpy
 scikit-learn
-tensorflow==2.13.0
+tensorflow==2.11.0
 openpyxl
