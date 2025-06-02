@@ -9,7 +9,7 @@ from sklearn.preprocessing import MinMaxScaler
 import os
 
 # === Download model from Google Drive if not present ===
-model_url = "https://drive.google.com/uc?id=1k0qEkbBDhmlZ6ObrUBxSlriRepl8erss"
+model_url = "https://drive.google.com/uc?id=1VZXs_wSj_zVrmfT75O_k8tJEFcRn6tsg"
 model_path = "lstm_discharge_model_2to1.keras"
 
 if not os.path.exists(model_path):
